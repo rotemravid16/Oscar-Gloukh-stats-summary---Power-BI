@@ -15,6 +15,6 @@ This Power BI dashboard presents Oscar Gloukh's apperances, goals and assists fr
 - Data source: Transfermarkt
 
 # 📥 How to Use
-1. Download the `.pbix` file.
+1. Download the `.pbix` file (Go to Oscar-Gloukh-stats-summary---Power-BI/Gloukh.pbix > 3 dots in the right corner > Download)
 2. Open it in Power BI Desktop.
 3. Explore and interact with the visuals.
