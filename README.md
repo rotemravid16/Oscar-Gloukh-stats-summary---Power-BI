@@ -1,8 +1,7 @@
 # Oscar-Gloukh-stats-summary---Power-BI
 This Power BI dashboard presents Oscar Gloukh's apperances, goals and assists from the 2021/2022 season through the start of the 2024/2025 season based on data from [Transfermarkt](https://www.transfermarkt.com/).
 
-Oscar-Gloukh-stats-summary---Power-BI
-/Oscar's stats.png
+<img src="Oscar's stats.png" width="600">
 
 # 🔍 Features
 - Player performance overview
